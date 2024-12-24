@@ -11,11 +11,11 @@ This project explores Walmart's sales dataset to derive meaningful patterns and 
 ![image](https://github.com/user-attachments/assets/e09e6e0c-c29c-438b-a067-2df9ccbd331d) <br />
 This query provides the total revenue generated across all stores for the recorded period in the dataset. It gives an aggregate overview of the company's overall sales performance. This is an essential metric to evaluate the scale of operations and overall business health during the specified time frame.
 
-2.Average Weekly Sales Per Store <br />
+2. Average Weekly Sales Per Store <br />
 ![image](https://github.com/user-attachments/assets/61b6ae6f-3eca-4bc8-a43c-83574a29d7af) <br />
 This query calculates the average weekly sales for each store and sorts them in descending order. The result highlights stores with consistently high performance and those that may need operational improvements. This insight is particularly useful for understanding store-specific trends and identifying outliers, which can help target better strategies to improve underperforming locations.
 
-3.Store with Maximum Weekly Sales <br />
+3. Store with Maximum Weekly Sales <br />
 ![image](https://github.com/user-attachments/assets/c65ac5f5-5998-497c-adbf-9a826ff5c7ef) <br />
 This query identifies the store and the specific week with the highest recorded sales. This could indicate a successful promotional campaign, a local event, or seasonality impacting consumer spending. Such insights help in determining which strategies worked well for the business and could potentially be replicated in other stores.
 
