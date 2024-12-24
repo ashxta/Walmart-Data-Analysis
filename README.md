@@ -7,8 +7,8 @@ Walmart, one of the largest retail corporations globally, generates massive volu
 📊 Project Overview -
 This project explores Walmart's sales dataset to derive meaningful patterns and trends. It focuses on analyzing weekly sales trends, the impact of holidays on sales, the relationship between fuel prices and sales, and the influence of external economic factors such as unemployment rates and the Consumer Price Index (CPI). The project employs SQL for querying the dataset, Python for preprocessing and formatting data, and Power BI for creating interactive visualizations. Together, these tools transform raw sales data into actionable insights that inform Walmart’s business strategies.
 
-1. Total Weekly Sales
-![image](https://github.com/user-attachments/assets/e09e6e0c-c29c-438b-a067-2df9ccbd331d)
+1. Total Weekly Sales <br />
+![image](https://github.com/user-attachments/assets/e09e6e0c-c29c-438b-a067-2df9ccbd331d) <br />
 This query provides the total revenue generated across all stores for the recorded period in the dataset. It gives an aggregate overview of the company's overall sales performance. This is an essential metric to evaluate the scale of operations and overall business health during the specified time frame.
 
 2.Average Weekly Sales Per Store
