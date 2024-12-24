@@ -1,5 +1,5 @@
+#WALMART DATA ANALYSIS
 ![Walmart Data Analysis](https://github.com/user-attachments/assets/2ed58e61-7f41-49a0-b39d-8ca50acd8884)
-Walmart Data Analysis
 
 🏢 Business Problem - 
 Walmart, one of the largest retail corporations globally, generates massive volumes of sales data daily. Managing such a large dataset poses significant challenges, especially when aiming to extract actionable insights regarding sales trends, the impact of external factors like holidays, fuel prices, and unemployment rates on sales. Without an effective data analysis framework, Walmart risks missing critical insights that could improve operational efficiency, boost sales, and refine decision-making. This project aims to analyze Walmart's sales data to uncover key insights and trends that support strategic business decisions.
@@ -11,40 +11,40 @@ This project explores Walmart's sales dataset to derive meaningful patterns and 
 ![image](https://github.com/user-attachments/assets/e09e6e0c-c29c-438b-a067-2df9ccbd331d) <br />
 This query provides the total revenue generated across all stores for the recorded period in the dataset. It gives an aggregate overview of the company's overall sales performance. This is an essential metric to evaluate the scale of operations and overall business health during the specified time frame.
 
-2.Average Weekly Sales Per Store
-![image](https://github.com/user-attachments/assets/61b6ae6f-3eca-4bc8-a43c-83574a29d7af)
+2.Average Weekly Sales Per Store <br />
+![image](https://github.com/user-attachments/assets/61b6ae6f-3eca-4bc8-a43c-83574a29d7af) <br />
 This query calculates the average weekly sales for each store and sorts them in descending order. The result highlights stores with consistently high performance and those that may need operational improvements. This insight is particularly useful for understanding store-specific trends and identifying outliers, which can help target better strategies to improve underperforming locations.
 
-3.Store with Maximum Weekly Sales
-![image](https://github.com/user-attachments/assets/c65ac5f5-5998-497c-adbf-9a826ff5c7ef)
+3.Store with Maximum Weekly Sales <br />
+![image](https://github.com/user-attachments/assets/c65ac5f5-5998-497c-adbf-9a826ff5c7ef) <br />
 This query identifies the store and the specific week with the highest recorded sales. This could indicate a successful promotional campaign, a local event, or seasonality impacting consumer spending. Such insights help in determining which strategies worked well for the business and could potentially be replicated in other stores.
 
-4. Holiday Impact on Weekly Sales
-![image](https://github.com/user-attachments/assets/0d0a59a0-5d01-4b0e-bae6-c3b78d8ac06c)
+4. Holiday Impact on Weekly Sales <br />
+![image](https://github.com/user-attachments/assets/0d0a59a0-5d01-4b0e-bae6-c3b78d8ac06c) <br />
 By comparing sales during holiday weeks (Holiday_Flag = 1) and non-holiday weeks (Holiday_Flag = 0), this query reveals the impact of holidays on consumer spending. It highlights whether holiday periods lead to higher sales, which could indicate successful seasonal marketing strategies or increased demand during holidays.
 
-5. Yearly Sales Trends
-![image](https://github.com/user-attachments/assets/75e51c43-5454-4e5f-8bc3-676ca03e0ecc)
+5. Yearly Sales Trends <br />
+![image](https://github.com/user-attachments/assets/75e51c43-5454-4e5f-8bc3-676ca03e0ecc) <br />
 This query shows the yearly sales trends over the dataset's period. It provides insights into how the company has performed over the years, indicating growth, stagnation, or decline. This is particularly useful for understanding long-term patterns and evaluating the effectiveness of yearly strategies and business decisions.
 
-6. Correlation Between Temperature and Sales
-![image](https://github.com/user-attachments/assets/d4cec5cd-0d1d-4f3f-867f-94835cba6b64)
+6. Correlation Between Temperature and Sales <br />
+![image](https://github.com/user-attachments/assets/d4cec5cd-0d1d-4f3f-867f-94835cba6b64) <br />
 This query examines the relationship between temperature and sales. It can reveal interesting patterns, such as higher sales in certain temperature ranges, which may indicate weather-driven demand. For instance, colder months might drive demand for certain products, while warmer periods could see an increase in sales for others.
 
-7. Correlation Between Fuel Price and Sales
-![image](https://github.com/user-attachments/assets/ad9c6aeb-6b35-41c1-8315-535e4d2e4350)
+7. Correlation Between Fuel Price and Sales <br />
+![image](https://github.com/user-attachments/assets/ad9c6aeb-6b35-41c1-8315-535e4d2e4350) <br />
 This query highlights the relationship between fuel prices and weekly sales. Fluctuations in fuel prices can directly or indirectly influence consumer behavior. For instance, higher fuel prices may lead to reduced discretionary spending, impacting sales volumes, while stable or lower prices may encourage higher consumer activity.
 
-8. CPI Trends Across the Dataset
-![image](https://github.com/user-attachments/assets/8e263270-6503-4030-9a9f-7393c1c63b38)
+8. CPI Trends Across the Dataset <br />
+![image](https://github.com/user-attachments/assets/8e263270-6503-4030-9a9f-7393c1c63b38) <br />
 This query calculates the average Consumer Price Index (CPI) for each year in the dataset. The CPI is a measure of inflation and economic stability, which directly impacts purchasing power and consumer spending. This insight helps assess how inflationary trends have influenced sales over the years.
 
-9. Unemployment Rate Impact on Sales
-![image](https://github.com/user-attachments/assets/7dbbfee7-437e-4799-b8d2-66e1496bd37c)
+9. Unemployment Rate Impact on Sales <br />
+![image](https://github.com/user-attachments/assets/7dbbfee7-437e-4799-b8d2-66e1496bd37c) <br />
 This query analyzes the average unemployment rate over the years. By correlating unemployment trends with sales data, businesses can understand how economic factors like job availability and income stability affect consumer spending behavior.
 
-10. Holiday vs Non-Holiday Sales Comparison
-![image](https://github.com/user-attachments/assets/bb9aaa5b-2db1-4e3d-8904-767a3361e9d6)
+10. Holiday vs Non-Holiday Sales Comparison <br />
+![image](https://github.com/user-attachments/assets/bb9aaa5b-2db1-4e3d-8904-767a3361e9d6) <br />
 This query compares the average weekly sales for holiday and non-holiday weeks. It provides a clear indication of whether sales tend to spike during holiday weeks, which could justify special promotions or events during such periods to maximize revenue.
 
 
